@@ -24,6 +24,7 @@ This project focuses on building a machine learning model to detect fraudulent c
 Explain the purpose and objectives of the project, along with a brief overview of the techniques and algorithms you'll be using.
 
 ## Dataset
+Link to dataset: [Dataset Source](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 Describe the dataset you're working with, including its source, size, and the features it contains. You can also mention any challenges or considerations related to the dataset.
 
